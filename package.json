@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vision-camera",
-  "version": "2.15.2",
+  "name": "kody-react-native-vision-camera",
+  "version": "2.15.3",
   "description": "The Camera library that sees the vision.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -58,7 +58,7 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/mrousavy/react-native-vision-camera",
+  "repository": "https://github.com/KodyFintak/react-native-vision-camera",
   "author": "Marc Rousavy <marcrousavy@hotmail.com> (https://github.com/mrousavy)",
   "license": "MIT",
   "bugs": {
